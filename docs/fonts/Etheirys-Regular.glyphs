@@ -1,6 +1,9 @@
 {
 .appVersion = "3108";
 .formatVersion = 3;
+DisplayStrings = (
+F
+);
 date = "2022-01-03 13:35:23 +0000";
 familyName = Etheirys;
 fontMaster = (
@@ -394,10 +397,63 @@ unicode = 69;
 },
 {
 glyphname = F;
+lastChange = "2022-01-04 08:05:03 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+};
+closed = 1;
+nodes = (
+(95,799,o),
+(30,700,o),
+(30,650,c),
+(30,625,o),
+(130,622,o),
+(130,600,c),
+(131,500,o),
+(130,0,o),
+(130,0,c),
+(130,0,o),
+(168,0,o),
+(188,0,c),
+(211,2,o),
+(230,65,o),
+(230,100,c),
+(229,156,o),
+(230,350,o),
+(230,350,c),
+(230,350,o),
+(430,350,o),
+(480,350,c),
+(530,350,o),
+(555,250,o),
+(590,250,c),
+(624,249,o),
+(681,265,o),
+(680,300,c),
+(680,388,o),
+(560,450,o),
+(480,450,c),
+(400,450,o),
+(230,450,o),
+(230,450,c),
+(230,450,o),
+(231,645,o),
+(230,700,c),
+(230,752,o),
+(204,800,o),
+(180,800,c),
+(164,800,o),
+(168,799,o),
+(130,799,c)
+);
+}
+);
+width = 710;
 }
 );
 unicode = 70;
@@ -863,6 +919,106 @@ width = 600;
 unicode = 122;
 },
 {
+glyphname = zero;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 48;
+},
+{
+glyphname = one;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 49;
+},
+{
+glyphname = two;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 50;
+},
+{
+glyphname = three;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 51;
+},
+{
+glyphname = four;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 52;
+},
+{
+glyphname = five;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 53;
+},
+{
+glyphname = six;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 54;
+},
+{
+glyphname = seven;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 55;
+},
+{
+glyphname = eight;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 56;
+},
+{
+glyphname = nine;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 57;
+},
+{
 glyphname = space;
 layers = (
 {
@@ -871,6 +1027,36 @@ width = 200;
 }
 );
 unicode = 32;
+},
+{
+glyphname = exclam;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 33;
+},
+{
+glyphname = question;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 63;
+},
+{
+glyphname = hyphen;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 45;
 }
 );
 metrics = (
